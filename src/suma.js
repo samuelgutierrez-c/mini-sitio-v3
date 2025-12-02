@@ -1,4 +1,4 @@
 export function suma(a, b) {
-    return Number(a) + Number(b);
+  return (a) + (b);
 }
 console.log(suma(2, 3));
